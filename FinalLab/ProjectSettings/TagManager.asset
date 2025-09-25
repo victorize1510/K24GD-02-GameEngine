@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Ground
+  - decoration
+  - Enemy
+  - EnemyHitbox
+  - EnemyHurtbox
+  - PlayerAttackHitbox
+  - Coin
+  - UndoMovePowerupCount
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - decoration
+  - Enemy
+  - Player
+  - EnemyHitbox
+  - EnemyHurtbox
+  - PlayerAttackHitbox
+  - Coin
+  - Boss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: 3
+    uniqueID: 3229172183
+    locked: 0
+  - name: 2
+    uniqueID: 3401220773
+    locked: 0
+  - name: 1
+    uniqueID: 610355449
+    locked: 0
+  - name: Decoration
+    uniqueID: 3072135939
+    locked: 0
+  - name: Water
+    uniqueID: 2933949643
+    locked: 0
+  - name: Grass
+    uniqueID: 242718501
+    locked: 0
+  - name: Ground
+    uniqueID: 3563768287
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  m_RenderingLayers:
+  - Default

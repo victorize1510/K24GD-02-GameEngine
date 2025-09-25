@@ -1,0 +1,1573 @@
+fileFormatVersion: 2
+guid: debaca436f1147142b840724814bd1aa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8610317969172181187
+    second: boss_treemonster1_0
+  - first:
+      213: -990653907420022188
+    second: boss_treemonster1_1
+  - first:
+      213: -3061552782718011336
+    second: boss_treemonster1_2
+  - first:
+      213: -8529346703245583705
+    second: boss_treemonster1_3
+  - first:
+      213: -8186583789737217201
+    second: boss_treemonster1_4
+  - first:
+      213: -2844189151242248328
+    second: boss_treemonster1_5
+  - first:
+      213: 3252526889744293679
+    second: boss_treemonster1_6
+  - first:
+      213: 5607351657351587109
+    second: boss_treemonster1_7
+  - first:
+      213: -3994763035257151046
+    second: boss_treemonster1_8
+  - first:
+      213: -7072694380170141269
+    second: boss_treemonster1_9
+  - first:
+      213: 4074614927156775048
+    second: boss_treemonster1_10
+  - first:
+      213: -1247447435334517446
+    second: boss_treemonster1_11
+  - first:
+      213: 4772790192728988946
+    second: boss_treemonster1_12
+  - first:
+      213: 8981541848431713757
+    second: boss_treemonster1_13
+  - first:
+      213: -252473574623822865
+    second: boss_treemonster1_14
+  - first:
+      213: 4675641708340467827
+    second: boss_treemonster1_15
+  - first:
+      213: 176288370741381801
+    second: boss_treemonster1_16
+  - first:
+      213: -8220052288324687389
+    second: boss_treemonster1_17
+  - first:
+      213: 4962587230560895583
+    second: boss_treemonster1_18
+  - first:
+      213: 1795440750596277958
+    second: boss_treemonster1_19
+  - first:
+      213: -9146076399195610535
+    second: boss_treemonster1_20
+  - first:
+      213: 5318631298845922458
+    second: boss_treemonster1_21
+  - first:
+      213: -8893664921480234326
+    second: boss_treemonster1_22
+  - first:
+      213: -726536608592226718
+    second: boss_treemonster1_23
+  - first:
+      213: 4470323312750069940
+    second: boss_treemonster1_24
+  - first:
+      213: 7298953756707796150
+    second: boss_treemonster1_25
+  - first:
+      213: 6799091381104619029
+    second: boss_treemonster1_26
+  - first:
+      213: -1057141120139510815
+    second: boss_treemonster1_27
+  - first:
+      213: -2902331257771050800
+    second: boss_treemonster1_28
+  - first:
+      213: -4315632808692341814
+    second: boss_treemonster1_29
+  - first:
+      213: -7635427973554442786
+    second: boss_treemonster1_30
+  - first:
+      213: 6557629789507173135
+    second: boss_treemonster1_31
+  - first:
+      213: 7121361497074423264
+    second: boss_treemonster1_32
+  - first:
+      213: -7631122052708621628
+    second: boss_treemonster1_33
+  - first:
+      213: 6717356533845699457
+    second: boss_treemonster1_34
+  - first:
+      213: 7934125206354699564
+    second: boss_treemonster1_35
+  - first:
+      213: -4019768782154758946
+    second: boss_treemonster1_36
+  - first:
+      213: 6191108864947508939
+    second: boss_treemonster1_37
+  - first:
+      213: -4952655825588612978
+    second: boss_treemonster1_38
+  - first:
+      213: 6550408903116693932
+    second: boss_treemonster1_39
+  - first:
+      213: 3410265526602567771
+    second: boss_treemonster1_40
+  - first:
+      213: 3043805488147777897
+    second: boss_treemonster1_41
+  - first:
+      213: 6640075736836442704
+    second: boss_treemonster1_42
+  - first:
+      213: -2130920817361095867
+    second: boss_treemonster1_43
+  - first:
+      213: 5435851619309872805
+    second: boss_treemonster1_44
+  - first:
+      213: 4358059459404208851
+    second: boss_treemonster1_45
+  - first:
+      213: -140935657297158826
+    second: boss_treemonster1_46
+  - first:
+      213: -666429243710623900
+    second: boss_treemonster1_47
+  - first:
+      213: -3291995634823206613
+    second: boss_treemonster1_48
+  - first:
+      213: 4683048956194527418
+    second: boss_treemonster1_49
+  - first:
+      213: -3858855304283315211
+    second: boss_treemonster1_50
+  - first:
+      213: -1042064884958880189
+    second: boss_treemonster1_51
+  - first:
+      213: 4664541424211427449
+    second: boss_treemonster1_52
+  - first:
+      213: 418128083451517300
+    second: boss_treemonster1_53
+  - first:
+      213: 1838393052285186970
+    second: boss_treemonster1_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boss_treemonster1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 307
+        width: 183
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f445c2d61028880800000000000000
+      internalID: -8610317969172181187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 366
+        width: 145
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a70e8158d7042f0800000000000000
+      internalID: -990653907420022188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_2
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 383
+        width: 112
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838fbf407fd2385d0800000000000000
+      internalID: -3061552782718011336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_3
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 325
+        width: 72
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aad5e22d5ca1a980800000000000000
+      internalID: -8529346703245583705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_4
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 331
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43fdb8ea69636e80800000000000000
+      internalID: -8186583789737217201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_5
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 369
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f9f2e39096788d0800000000000000
+      internalID: -2844189151242248328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_6
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 367
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f5d9d39fb432d20800000000000000
+      internalID: 3252526889744293679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 227
+        width: 132
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525a3239f9051dd40800000000000000
+      internalID: 5607351657351587109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_8
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 353
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1e2a14f20cf88c0800000000000000
+      internalID: -3994763035257151046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_9
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 348
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1ae091fedb8dd90800000000000000
+      internalID: -7072694380170141269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_10
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 336
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8880fa120b0fb8830800000000000000
+      internalID: 4074614927156775048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 324
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3df9e4ba2d20bee0800000000000000
+      internalID: -1247447435334517446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 225
+        width: 154
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d5419946b5c3240800000000000000
+      internalID: 4772790192728988946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_13
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 269
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddd31399b8d4ac70800000000000000
+      internalID: 8981541848431713757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 253
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febbf5d1f980f7cf0800000000000000
+      internalID: -252473574623822865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_15
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 273
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37852a27c5733e040800000000000000
+      internalID: 4675641708340467827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_16
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 224
+        width: 69
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa8214d65d427200800000000000000
+      internalID: 176288370741381801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_17
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 253
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e92547def18ced80800000000000000
+      internalID: -8220052288324687389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 232
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52c8741bc6aed440800000000000000
+      internalID: 4962587230560895583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_19
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 189
+        width: 121
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c64d8a99dfaae810800000000000000
+      internalID: 1795440750596277958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_20
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 205
+        width: 71
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952ac5119fb921180800000000000000
+      internalID: -9146076399195610535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_21
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 206
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a945cfaacf29fc940800000000000000
+      internalID: 5318631298845922458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_22
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 115
+        width: 54
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa71d3efda539480800000000000000
+      internalID: -8893664921480234326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_23
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 187
+        width: 65
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2661b88cdc2dae5f0800000000000000
+      internalID: -726536608592226718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_24
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 209
+        width: 68
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b88d9f3e57c90e30800000000000000
+      internalID: 4470323312750069940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 158
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4329c25c71b4560800000000000000
+      internalID: 7298953756707796150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 170
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e292686993b5e50800000000000000
+      internalID: 6799091381104619029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 190
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb30a090c74451f0800000000000000
+      internalID: -1057141120139510815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_28
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 189
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d83b082919d8b7d0800000000000000
+      internalID: -2902331257771050800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_29
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 191
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac32fd063dacb14c0800000000000000
+      internalID: -4315632808692341814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_30
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 69
+        width: 111
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edde43856b2890690800000000000000
+      internalID: -7635427973554442786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 70
+        width: 110
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b381cbc81610b50800000000000000
+      internalID: 6557629789507173135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_32
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 122
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5d34e0d8824d260800000000000000
+      internalID: 7121361497074423264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_33
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 181
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c227aaaceec81690800000000000000
+      internalID: -7631122052708621628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 115
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ba58d6d28d83d50800000000000000
+      internalID: 6717356533845699457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_35
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 71
+        width: 60
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25ae30a6dcab1e60800000000000000
+      internalID: 7934125206354699564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_36
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 101
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4067c1799e638c0800000000000000
+      internalID: -4019768782154758946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_37
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 116
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d7f4f5bc3be550800000000000000
+      internalID: 6191108864947508939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_38
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 66
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80950554c1a44bb0800000000000000
+      internalID: -4952655825588612978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 95
+        width: 33
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1a3db113ab7ea50800000000000000
+      internalID: 6550408903116693932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_40
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 94
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5018e69d62b35f20800000000000000
+      internalID: 3410265526602567771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_41
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 95
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969ce66f6f4cd3a20800000000000000
+      internalID: 3043805488147777897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_42
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 98
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a83d7b3b9462c50800000000000000
+      internalID: 6640075736836442704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_43
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 60
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543f4b48ec27d62e0800000000000000
+      internalID: -2130920817361095867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 32
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a662b45f36007b40800000000000000
+      internalID: 5435851619309872805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_45
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 38
+        width: 45
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da91d30dffea7c30800000000000000
+      internalID: 4358059459404208851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_46
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ddd9234cb4b0ef0800000000000000
+      internalID: -140935657297158826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_47
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 46
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46f22bc322e50c6f0800000000000000
+      internalID: -666429243710623900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_48
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 53
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29e930796b7052d0800000000000000
+      internalID: -3291995634823206613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_49
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 45
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab81dbbb6388df040800000000000000
+      internalID: 4683048956194527418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_50
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 40
+        width: 38
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3af8cbb87927ac0800000000000000
+      internalID: -3858855304283315211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_51
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 53
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e1e1b1287d981f0800000000000000
+      internalID: -1042064884958880189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_52
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 43
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970873626b7cbb040800000000000000
+      internalID: 4664541424211427449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4791ebcc64d7dc500800000000000000
+      internalID: 418128083451517300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boss_treemonster1_54
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 32
+        width: 37
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a933107adb8438910800000000000000
+      internalID: 1838393052285186970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      boss_treemonster1_0: -8610317969172181187
+      boss_treemonster1_1: -990653907420022188
+      boss_treemonster1_10: 4074614927156775048
+      boss_treemonster1_11: -1247447435334517446
+      boss_treemonster1_12: 4772790192728988946
+      boss_treemonster1_13: 8981541848431713757
+      boss_treemonster1_14: -252473574623822865
+      boss_treemonster1_15: 4675641708340467827
+      boss_treemonster1_16: 176288370741381801
+      boss_treemonster1_17: -8220052288324687389
+      boss_treemonster1_18: 4962587230560895583
+      boss_treemonster1_19: 1795440750596277958
+      boss_treemonster1_2: -3061552782718011336
+      boss_treemonster1_20: -9146076399195610535
+      boss_treemonster1_21: 5318631298845922458
+      boss_treemonster1_22: -8893664921480234326
+      boss_treemonster1_23: -726536608592226718
+      boss_treemonster1_24: 4470323312750069940
+      boss_treemonster1_25: 7298953756707796150
+      boss_treemonster1_26: 6799091381104619029
+      boss_treemonster1_27: -1057141120139510815
+      boss_treemonster1_28: -2902331257771050800
+      boss_treemonster1_29: -4315632808692341814
+      boss_treemonster1_3: -8529346703245583705
+      boss_treemonster1_30: -7635427973554442786
+      boss_treemonster1_31: 6557629789507173135
+      boss_treemonster1_32: 7121361497074423264
+      boss_treemonster1_33: -7631122052708621628
+      boss_treemonster1_34: 6717356533845699457
+      boss_treemonster1_35: 7934125206354699564
+      boss_treemonster1_36: -4019768782154758946
+      boss_treemonster1_37: 6191108864947508939
+      boss_treemonster1_38: -4952655825588612978
+      boss_treemonster1_39: 6550408903116693932
+      boss_treemonster1_4: -8186583789737217201
+      boss_treemonster1_40: 3410265526602567771
+      boss_treemonster1_41: 3043805488147777897
+      boss_treemonster1_42: 6640075736836442704
+      boss_treemonster1_43: -2130920817361095867
+      boss_treemonster1_44: 5435851619309872805
+      boss_treemonster1_45: 4358059459404208851
+      boss_treemonster1_46: -140935657297158826
+      boss_treemonster1_47: -666429243710623900
+      boss_treemonster1_48: -3291995634823206613
+      boss_treemonster1_49: 4683048956194527418
+      boss_treemonster1_5: -2844189151242248328
+      boss_treemonster1_50: -3858855304283315211
+      boss_treemonster1_51: -1042064884958880189
+      boss_treemonster1_52: 4664541424211427449
+      boss_treemonster1_53: 418128083451517300
+      boss_treemonster1_54: 1838393052285186970
+      boss_treemonster1_6: 3252526889744293679
+      boss_treemonster1_7: 5607351657351587109
+      boss_treemonster1_8: -3994763035257151046
+      boss_treemonster1_9: -7072694380170141269
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
